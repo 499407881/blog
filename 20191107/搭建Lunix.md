@@ -17,3 +17,9 @@
 ### 购买云服务
 
 1. [阿里云](https://www.aliyun.com/)
+
+### 相关工具
+
+1. XShell
+
+    - 非商业用途免费下载[链接](https://www.netsarang.com/zh/free-for-home-school/)
